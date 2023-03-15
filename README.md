@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghazi-223
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning c language.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to gain experience in the field of programming.
 
 <!---
